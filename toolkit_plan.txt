@@ -1,0 +1,55 @@
+
+PERSONAL MINI-TOOLKIT PROJECT PLAN
+
+1. PROJECT TITLE
+Personal Mini-Toolkit
+
+2. PROJECT DESCRIPTION
+A menu-driven Python application that provides users
+with simple tools to perform everyday tasks.
+
+3. TOOLS AND FEATURES
+
+Tool 1: Simple Calculator
+- Addition
+- Subtraction
+- Multiplication
+- Division
+- Prevent division by zero
+
+Tool 2: To-Do List Manager
+- Add a task
+- View all tasks
+- Store tasks in a list
+
+Tool 3: Grade Checker
+- Accept marks from 0 to 100
+- Determine the grade
+- Display the result
+
+Tool 4: Notes Manager
+- Add notes
+- View saved notes
+- Store notes in a list
+
+4. PROGRAM FLOW
+- Display the main menu.
+- Ask the user to select a tool.
+- Use if, elif and else to process choices.
+- Execute the selected tool.
+- Return to the main menu.
+- Continue until the user selects Exit.
+
+5. PYTHON CONCEPTS
+- Variables
+- Input and output
+- Conditional statements
+- Loops
+- Lists
+- Comments
+- Basic error handling
+
+6. EXPECTED OUTCOME
+A functional, user-friendly Python application
+that allows users to access different tools
+through a menu-driven interface.
